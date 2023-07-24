@@ -1,0 +1,7 @@
+
+{
+    "skipJsErrors": true,
+    "hostname": "localhost",
+    "baseURL": "https://www.saucedemo.com"
+    
+}

@@ -1,0 +1,22 @@
+{
+  "name": "testcafe-initial-hands-on",
+  "version": "1.0.0",
+  "description": "intial hands-on",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GallickGun/Testcafe-initial-hands-on.git"
+  },
+  "author": "GallickGun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GallickGun/Testcafe-initial-hands-on/issues"
+  },
+  "homepage": "https://github.com/GallickGun/Testcafe-initial-hands-on#readme",
+  "devDependencies": {
+    "testcafe": "^3.0.1"
+  }
+}

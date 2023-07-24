@@ -1,8 +1,7 @@
 const { Selector } = require("testcafe");
 
 fixture`Login Suite`
-.page`https://www.saucedemo.com/v1/
-`
+.page`https://www.saucedemo.com/v1/`
 test('Valid Login', async(t)=>{
     await t
     .typeText("#user-name", "standard_user")
